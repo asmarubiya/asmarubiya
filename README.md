@@ -49,8 +49,4 @@
 
 <p align="left">Hello World!!</p>
 
-###
 
-<img src="https://raw.githubusercontent.com/asmarubiya/asmarubiya/output/snake.svg" alt="Snake animation" />
-
-###
